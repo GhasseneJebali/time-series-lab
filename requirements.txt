@@ -1,0 +1,11 @@
+matplotlib
+netCDF4
+notebook
+numpy
+pandas
+scikit-learn
+scipy
+tqdm
+xarray
+statsmodels
+dask
