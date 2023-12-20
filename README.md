@@ -8,6 +8,7 @@ Welcome to the Time Series Forecasting and Outlier Detection repository! This re
 - [Overview](#overview)
 - [Features](#features)
 - [Clone](#Clone)
+- [Data](#Data)
 
 ## Overview
 
@@ -39,3 +40,10 @@ Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Data
+Data used in this repository come from Numenta Anomaly Benchmark (NAB)
+
+Check this kaggle page for more information about the data: https://www.kaggle.com/datasets/boltzmannbrain/nab
+
+This github repository provides more details about the data: https://github.com/numenta/NAB
