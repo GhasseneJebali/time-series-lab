@@ -20,7 +20,7 @@ Time series data often contains valuable insights. This repository offers a coll
   - ARIMA and SARIMA models
 
 - **Outlier Detection:**
-  - MAD: Mean Average Deviation
+  - MAD: Median Average Deviation
   - DBSCAN
   - K-means
   - OneClassSVM
